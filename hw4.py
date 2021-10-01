@@ -1,4 +1,9 @@
+# Your name: Umang Bhojani
+# Your student id: 63529052
+# Your email: ubhojani@umich.edu
+# List who you have worked with on this homework: Ian Lucic
 import unittest
+
 
 # The Customer class
 # The Customer class represents a customer who will order from the stalls.
